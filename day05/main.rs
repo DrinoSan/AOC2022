@@ -22,7 +22,5 @@ fn main() {
             println!("Line: {}", e.trim());
         }
     }
-
-    println!("Hello, world!");
 }
 
